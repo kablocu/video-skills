@@ -1,0 +1,17 @@
+# Üretilen videolar ve ara dosyalar (koddan her zaman yeniden üretilebilir)
+cikti/
+*.mp4
+*.wav
+*.mov
+*.part.mp4
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# İşletim sistemi
+.DS_Store
+Thumbs.db
+desktop.ini
